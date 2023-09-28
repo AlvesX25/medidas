@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    font-size: 16px;
+}
+
+section#primeiro{
+    background-color: blue;
+    font-size: 1em;
+}
+
+.segundo_texto{
+    background-color: blueviolet;
+    font-size: 1.5rem;
+
+}
+
+section#segundo{
+    background-color: brown;
+    font-size: 2em;
+}
+
+.terceiro_texto{
+    background-color: chartreuse;
+    font-size: 1.5em;
+}
+
+section#terceiro{
+    background-color: crimson;
+    font-size: 3em;
+}
+
+.quarto_texto{
+    background-color: aqua;
+    font-size: 1.5em;
+
+}
+
+
+
